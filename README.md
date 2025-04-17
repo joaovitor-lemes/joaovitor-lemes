@@ -18,5 +18,5 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitor-lemes" />
 </a>
  <a href="https://github.com/joaovitor-lemes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor-lemes&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor-lemes&layout=compact&langs_count=8&card_width=300" />
 </a> 
