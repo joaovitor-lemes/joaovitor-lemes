@@ -21,9 +21,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
-
-  ##
-
  
 <a href="https://github.com/joaovitor-lemes/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitor-lemes" />
